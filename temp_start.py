@@ -2,4 +2,4 @@ temp_start = float(input("Введите начальную температур
 temp_end = float(input("Введите конечную температуру: "))
 time = float(input("Введите время в секундах: "))
 
-temp_diff = temp_end - temp_start
+temp_diff = temp_end - temp_start.
